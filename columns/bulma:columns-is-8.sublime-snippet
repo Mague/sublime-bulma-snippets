@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="column is-8">
+	${1}
+</div>
+]]>
+</content>
+<tabTrigger>blm-i8</tabTrigger>
+<scope>text.html.basic</scope>
+</snippet>
